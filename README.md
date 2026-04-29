@@ -69,3 +69,18 @@ Kpを大きくすると応答速度が上がり、Kiを加えることで定常�
 
 ```bash  
 pip install numpy matplotlib streamlit  
+```
+
+Streamlitアプリを起動します。
+
+```bash  
+streamlit run app.py  
+```
+
+ブラウザでアプリが開き、スライダーでPIDゲインを変更できます。
+
+## リポジトリURL
+
+本プロジェクトのGitHubリポジトリは以下です。
+
+https://github.com/saki-nya1539/pid-simulation
